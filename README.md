@@ -1,3 +1,3 @@
 # Todo-app
-To do list app in React Js
+https://todo-list-reactjs-github.netlify.app/
 
