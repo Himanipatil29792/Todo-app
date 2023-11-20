@@ -56,7 +56,7 @@ function App() {
           </div>
           {/* </form> */}
 
-          <ol>
+          <ol className="orderlist-height">
             {/* <li> {sfulltext}</li> */}
             {sfulltext.map((itemval, index) => {
               return (
